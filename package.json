@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://michaelwoo921.github.io/bootstrap4-confusion",
+  "homepage": "https://michaelwoo921.github.io/bootstrap4",
   "scripts": {
-    "start": "npm run watch:all",
+    "start": "npm run lite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1",
